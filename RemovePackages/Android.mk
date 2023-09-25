@@ -22,9 +22,8 @@ LOCAL_OVERRIDES_PACKAGES := \
           Gmail2 \
 		  GoogleCameraGo \
 		  PersonalSafety \
-		  Photos \
 		  PrebuiltDeskClockGoogle \
-		  Recorder \
+		  
           RecorderPrebuilt \
           SafetyHubPrebuilt \
           Snap \
