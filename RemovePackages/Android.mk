@@ -23,8 +23,7 @@ LOCAL_OVERRIDES_PACKAGES := \
 		  GoogleCameraGo \
 		  PersonalSafety \
 		  PrebuiltDeskClockGoogle \
-		  
-          RecorderPrebuilt \
+		        RecorderPrebuilt \
           SafetyHubPrebuilt \
           Snap \
           Turbo \
