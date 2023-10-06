@@ -248,6 +248,11 @@ PRODUCT_PACKAGES += \
     TetheringConfigOverlayMT6768 \
     WifiOverlayMT6768
 
+# Fast Charger
+
+PRODUCT_PACKAGES += \
+    vendor.lineage.fastcharge@1.0-service.xiaomi_mt6768
+
 # Power
 PRODUCT_PACKAGES += \
     android.hardware.power-service.mediatek-libperfmgr
